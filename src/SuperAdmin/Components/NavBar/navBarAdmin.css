@@ -1,0 +1,31 @@
+@media only screen and (max-width: 766px) {
+    .nav-item  {
+      margin: 5px ;
+    }
+  }
+ 
+  @media only screen and (min-width: 900px) {
+    .last-btn{
+      margin-right: 50px;
+    }
+  }
+  @media only screen and (min-width: 1100px) {
+    .last-btn{
+      margin-right: 200px;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    .last-btn{
+      margin-right: 300px;
+    }
+  }
+  @media only screen and (min-width: 1300px) {
+    .last-btn{
+      margin-right: 500px;
+    }
+  }
+  @media only screen and (min-width: 900px) {
+    .firts-btn{
+      margin-left: 100px;
+    }
+  }
